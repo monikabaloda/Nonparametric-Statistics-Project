@@ -1,2 +1,2 @@
-1. This section describes python codes cleaningt the datasets. 
-2. In following R codes, we describe our analysis. 
+1. We use python for data cleaning. The python notebook here contains the code used for cleaning the datasets. 
+2. We do main non-parametric analysis in R. R codes here describes the same. 
