@@ -1,21 +1,17 @@
--In this project, we use data over 50 years to estimate the long-run relationship using non-parametric statistical technique. 
--This paper was accepted for presentation in a joint annual conference The Econometric Society and Delhi School of Economics called Winter School 2022, 
-          hosted in New Delhi.
--I was awarded "Conference Travel Grant" fellowship worth USD 1100 by the Graduate Student Association 
-            funded by the Graduate Division of the University of California, Riverside. 
--I started this project in 2020 when we covid lockdowns came into the picture. 
-       -This project is very close to my heart as this is the first full fledged research paper, I worked on. 
-       - Because of this project, I got interested in the data and business analytics field. 
+This folder talks about multiple aspects of my journey into statistics. I saw statistics through three main roles: student, teacher, and reseacher. 
 
--Our target variable in this project is crop-yield and independent varable is fertilizer used per unit land. 
--We use data on Indian districts (around 350 according to 1971 Census definition) over 50 years to estimate the long-run relationship between two variables. 
--This papaer contributes to the following fields: 
-       1. Agriculture Economics 2. Use of non-parametric statistics in estimating long-run relationships.
-       3. Enviornmental Sustainability 4. Toxicology   5. Human Health and Fertilizers 
-       
--In this repository, I have uploaded the following files: 
-  1. Code: I provide the R and Python codes that we used for our analysis. 
-  2. Paper : This is the main document or paper which contains all the scintific research done in this project. 
-  3. Data: Data is available on request. 
+This folder shares some material that I used for my research, teaching and studies. In this note, I'm writing a brief overview. 
 
--This is a join project with my co-author Rajveer, pursuing PhD from University of California Riverside. 
+1. As A Student of Statistics: I'm currently pursuing MS in Business Analytics at University of California, Riverside. This program is jointly offered by the 
+   department of statistics and school of business. I'm supposed to take around 5 graduate level statistics courses. So far I have completed three. 
+   I have scored a perfect GPA = 4.0/4.0 in the statistics courses. (As on April 10, 2023). 
+ 
+2. Research: I started reading statistics seriously in 2020 during Covid lockdown. I followed my basic passion to culminate my encounter with statistics with something 
+            meaningful. I started working on a project which estimates long-run relationships between fertilizer use and soil and human health parameters.
+            We used non-parametric statistics techniques for our analysis. The codes, paper draft etc are available under the folder 'Non-parametric Research Paper'. 
+            
+3. Teacher: The Department of Statistics, University of California Riverside offered my a job of teaching assistant in Winter 2023 and Spring 2023 quarters. 
+            I got an opportunity to teach STAT 127: Introduction to Quality Improvement in the winter 2023 quarter and STAT 011 : Statistical Modeling and 
+            STAT 010 : Introduction to Statistics in the Spring 2023. 
+            
+            I share my teaching materials, students feedbacks and codes that I taught students i order to apply statistical concepts in practice. 
