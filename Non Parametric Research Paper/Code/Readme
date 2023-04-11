@@ -1,0 +1,5 @@
+This folder contains two files. 
+
+1. The first is a python notebook which is used for data cleaning process. 
+
+2. The second file is a R script which is used for main data analysis in `np' library. Here np stands for non-parametric. 
